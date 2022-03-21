@@ -1,0 +1,19 @@
+{
+  "Person": {
+    "FirstName": "Kobi",
+    "LastName": "Cohen",
+    "Age": 23,
+    "IsVeg": true,
+    "Children": [
+      "ben",
+      "dana"
+    ]
+  }
+}
+
+{
+  "Book": {
+    "Title": "Test",
+    "Pages": 13
+  }
+}
